@@ -10,6 +10,10 @@ This application is a result of one of my CS courses. A specific scenario was pr
 
 Standard Java in Netbeans IDE 8.2
 
+## Features
+
+Each time a user logs in, their login time and username is written to a .txt file. Each user has his/her own .txt file with a filename that is the user's username.
+
 ## Installing
 
 Complete...
@@ -17,13 +21,6 @@ Complete...
 ```
 Example
 ```
-
-Complete...
-
-```
-Example
-```
-
 (End with an example of getting some data out of the system or using it for a little demo)
 
 ## Deployment
