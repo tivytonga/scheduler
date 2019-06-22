@@ -14,6 +14,11 @@ Standard Java in Netbeans IDE 8.2
 
 Each time a user logs in, their login time and username is written to a .txt file. Each user has his/her own .txt file with a filename that is the user's username.
 
+## Issues
+
+1. Closing the Customer Records screen ends the entire program.
+2. Cancelling the Update Appointment screen ends the program with an error.
+
 ## Installing
 
 Complete...
